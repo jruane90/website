@@ -1,0 +1,247 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151305907-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151305907-2');
+</script>
+	<meta charset="utf-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Dr. Ruane - a local Gonstead Chiropractor who has helped many who were candidates for surgery or at their last resort. McKinney - Allen - Plano - Collin County">
+	<meta name="author" content="">
+	<meta name="keywords" content="chiropractor, gonstead, mckinney, allen, plano, collin county, chiropractic, trust, joseph, ruane">
+	<meta name="theme-color" content="#3f3f3f">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="shortcut icon" href="media/favicon.png">
+	<title>What to Expect - Prodigy Chiropractic - Local Trusted Chiropractor</title>
+	
+	<link rel="stylesheet" href="css/what-to-expect.css">
+	<link rel="stylesheet" href="css/global.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+
+</head>
+<body onscroll="scrollFunction()">
+	
+
+	<nav class='nav ' id='navbar'>
+		<input type='checkbox' id='nav-check'>
+		<div class='nav-header'>
+			<div class='nav-title'>
+				<a href='index.php'><img class='logo' id='logo' src='media/prodigy-chiropractic-gonstead-logo-dark@2x.png'></a>
+			</div>
+		</div>
+		<div class='nav-links'>
+			<a class='' href='index.php'>MEET DR. RUANE</a>
+			<a class='' href='why-gonstead.php'>EXPERIENCE THE FOUNDATIONAL DIFFERENCE</a>
+			<a class='' href='what-patients-say.php'>WHAT PATIENTS SAY</a>
+			<a class='current' href='what-to-expect.php'>WHAT TO EXPECT</a>
+
+			<a class='' href='contact-us.php'>CONTACT US</a>
+		</div>
+		<div class='nav-btn'>
+			<label for='nav-check'>
+			<span></span>
+			<span></span>
+			<span></span>
+			</label>
+		</div>
+	</nav>
+<div class="icon-bar">
+	<a href="https://facebook.com/prodigychiropractic" class="social-facebook"><i class="fa fa-facebook"></i></a> 
+</div>
+
+<div class="slides" id="slides">
+	
+	<div class="slide-grey">
+		<h1>WHAT TO EXPECT</h1>
+		<h2><span>The Treatment Process</span></h2>
+		
+		<div class="circle-container">
+			<div class="circle blue-bg">
+				<h3>1. CONSULTATION</h3>
+			</div>
+			<div class="circle red-bg">
+				<h3>2. X-RAYS</h3>
+			</div>
+			<div class="circle green-bg">
+				<h3>3. REPORT</h3>
+			</div>
+			<div class="circle yellow-bg">
+				<h3>4. ADJUSTMENT</h3>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-split" id="">
+		<div class="flex-row">
+			<div class="half-left-mobile">
+				<div class="slide__bg examPic"></div>
+			</div>
+			<div class="half-right flex-col">
+				<h3>CONSULTATION & EXAM<br>
+					<span>Day One: Understanding YOU</span>
+				</h3>
+				
+				<p>On your first visit, Dr. Ruane will have the opportunity to sit down with you to discuss your chief complaint, answer any questions or concerns, and talk to you about your health goals. He will then talk to you about your patient history that you fill out on the online portal.</p>
+				<p>We will discuss and elaborate on how your current complaint manifested, and furthermore, will determine if there are any other complaints that you have that may be related via the nervous system. Once Dr. Ruane has gathered all the required details of your complaint and history, he will then begin the exam portion of your visit.​</p>
+				
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-split" id="">
+		<div class="flex-row">
+			<div class="half-left-mobile">
+				<div class="slide__bg xrayPic"></div>
+			</div>
+			<div class="half-right flex-col">
+				<h3>X-RAYS</h3>
+				<p>Once the examination is complete, you will be scheduled to take outsourced X-rays at The Center of Diagnostic Imaging- McKinney.</p>
+				<p>The X-rays are an essential and vital form of data to rule out fracture and other pathologies, as well as to perform a line drawing analysis to determine the best approach to treatment.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-split" id="">
+		<div class="flex-row">
+			<div class="half-left-mobile">
+				<div class="slide__bg reportPic"></div>
+			</div>
+			<div class="half-right flex-col">
+				<h3>REPORT OF FINDING<br>
+					<span>Day Two: How to Best Heal YOU</span>
+				</h3>
+				<p>On your next visit, Dr. Ruane will discuss how your chief complaint relates to your X-ray findings. Together, we will talk about a treatment plan that best suits the needs of your condition.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-split" id="">
+		<div class="flex-row">
+			<div class="half-left-mobile">
+				<div class="slide__bg adjustmentPic"></div>
+			</div>
+			<div class="half-right flex-col">
+				<h3>ADJUSTMENT<br>
+					<span>Where Healing Happens</span>
+				</h3>
+				<p>Dr. Joe is a trained expert in making the specific adjustments that are needed to relieve your pain and cause true healing to happen.</p>
+				<p>After your first adjustment, he will let you know the do's and dont's post treatment in order to reach optimal health and quality of life.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-grey" id="">
+		<div class="flex-col flex-center">
+			<h2>WANT TO KNOW MORE?</h2>
+			<a href="why-gonstead.php" class="btn-blue">Learn More</a>
+			
+		</div>
+	</div>
+	
+	<div class="slide-light flex-center-wrapper" id="">
+		<div class="content-left">
+			
+			<h2>The Office</h2>
+			
+			<div class="gallery-container">
+					<a href="media/office-1-HD.jpg"><img src="media/office-1.jpg"></a>
+					<a href="media/office-2-HD.jpg"><img src="media/office-2.jpg"></a>
+					<a href="media/main-lobby-1-HD.jpg"><img src="media/main-lobby-1.jpg"></a>
+					<a href="media/outside-HD.jpg"><img src="media/outside.jpg"></a>
+					<a href="media/main-lobby-2-HD.jpg"><img src="media/main-lobby-2.jpg"></a>
+					<a href="media/business-cards-HD.jpg"><img src="media/business-cards.jpg"></a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-grey flex-center-wrapper" id="slide-6">
+		<div class="flex-col flex-center">
+			<h2>EASY SCHEDULE SYSTEM!</h2>
+			<a href="contact-us.php" class="btn-blue">Schedule Appointment</a>
+		</div>
+	</div>
+	
+	
+	<footer class="flex-center-wrapper">
+	<div class="flex-row flex-wrap flex-center flex-cross-start confine-body">
+		<div class="flex-col">
+			<img id="footer-logo" src="media/prodigy-chiropractic-gonstead-logo@2x.png"/><br>
+			<p>The Gonstead Difference</p>
+			<p>Your Collin County Chiropractor</p>
+		</div>
+		<div class="flex-col">
+			<h3>Contact Info</h3>
+			<p>
+				<span class="replaceWithPhoneNumber">Please Enable Javascript</span><br>
+				<span class="replaceWithEmail">Please Enable Javascript</span><br><br>
+				<span class="replaceWithAddressLine1">Please Enable Javascript</span><br>
+				<span class="replaceWithAddressLine2">Please Enable Javascript</span><br>
+			</p>
+			<ul class="social2 padding-top-10 padding-right-10">
+				<!-- Social Button HTML -->
+				
+			</ul>
+		</div>
+		
+	</div>
+</footer>	
+</div>
+<script type="text/javascript" src="js/navbar.js" async></script>
+<script type="text/javascript" src="js/contactInfo.js"></script>
+<script type="application/ld+json" async>
+{
+	"@context": "http://schema.org",
+	"@type": "chiropractic",
+	"name": "Prodigy Chiropractic",
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "8951 Collin McKinney Pkwy Suite 1201-J",
+		"addressLocality": "McKinney",
+		"addressRegion": "TX",
+		"postalCode": "75070"
+	},
+	"image": "prodigychiropractic.com/logo.jpg",
+	"telePhone": "(214) 449-0240",
+	"url": "prodigychiropractic.com",
+	"paymentAccepted": [ "cash", "check", "credit card" ],
+	"openingHours": "Mo,Tu,We,Th,Fr,Sa 08:00-18:00",
+	"openingHoursSpecification": [ {
+		"@type": "OpeningHoursSpecification",
+		"dayOfWeek": [
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday",
+			"Saturday"
+		],
+		"opens": "08:00",
+		"closes": "18:00"
+	} ],
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "33.136863",
+		"longitude": "-96.730924"
+	},
+	"priceRange":"$$"
+
+}
+</script>
+
+	</body>
+</html>
