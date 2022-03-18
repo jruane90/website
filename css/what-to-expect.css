@@ -1,0 +1,31 @@
+.examPic {
+	background-image: url('../media/oldPics/JoeChiroImages24.webp') !important;
+}
+
+.xrayPic {
+	background-image: url('../media/oldPics/x-rays-P5QR9CG.webp') !important;
+}
+
+.reportPic {
+	background-image: url('../media/oldPics/JoeChiroImages17.webp') !important;
+}
+
+.adjustmentPic {
+	background-image: url('../media/oldPics/JoeChiroImages40.webp') !important;
+}
+
+.half-right h3 {
+	text-align: left;
+}
+
+.half-left h3 {
+	text-align: right;
+}
+
+.schedulerImg {
+	width:100%;
+	max-width: 100%;
+    max-height: 100%;
+	padding-top: 20px;
+	box-shadow: 3px 3px 20px 3px rgba(0,0,0,0.1);
+}

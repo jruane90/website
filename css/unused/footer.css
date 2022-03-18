@@ -1,0 +1,32 @@
+ /* footer
+ --------------------------------------------- */
+footer {
+	background: #132B46;
+	position: relative;
+	padding: 40px 10px 100px 10px;
+	max-height: 100%;
+}
+
+footer h3 {
+	color: white;
+}
+
+footer p {
+	color: #ababab;
+}
+
+#footer-logo {
+	max-height: 3rem;
+	max-width: 12rem;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+@media (min-width: 0px) and (max-width: 630px) { 
+	footer .flex-row {
+		justify-content: flex-start;
+		margin-left: 20px;
+	}
+}

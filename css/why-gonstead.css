@@ -1,0 +1,39 @@
+.examPic {
+	background-image: url('../media/oldPics/JoeChiroImages24.webp') !important;
+}
+
+.xrayPic {
+	background-image: url('../media/oldPics/x-rays-P5QR9CG.webp') !important;
+}
+
+.housePic {
+	background-image: url('../media/house.jpg') !important;
+	background-position: 20% 80% !important;
+}
+
+.reportPic {
+	background-image: url('../media/oldPics/JoeChiroImages17.webp') !important;
+}
+
+.gonsteadPic {
+	background-image: url('../media/oldPics/dr-gonstead.webp') !important;
+	background-position: 20% 20% !important;
+}
+
+.half-right h3 {
+	text-align: left;
+}
+
+.half-left h3 {
+	text-align: right;
+}
+
+@media (max-width: 475px) {
+	.jumbotron h1 {
+		font-size: 30px !important;
+	}
+	
+	.slide-split .half-right {
+		padding: 5% !important;
+	}
+}

@@ -1,0 +1,101 @@
+ /* slide layout
+ --------------------------------------------- */
+
+ .slide {
+   position: relative;
+   padding: 5% 0px;
+ }
+ .slide__content {
+   max-width: 1200px;
+   display: flex;
+   margin: 60px;
+   
+ }
+ .slides {
+	 scroll-behavior: smooth;
+ }
+ 
+ .parallax_text, .slide__image {
+   padding: 8%;
+ }
+ 
+ .slide__bg {
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   z-index: -1;
+ }
+
+#slide-1-title {
+	color: white;
+}
+
+ /* Large screen layout
+ --------------------------------------------- */  
+ 
+ @media screen and (min-width: 45em) {
+
+   .slide__content {
+     display: -webkit-flex;
+     display: flex;
+     align-items: center;
+   }
+   .slide__image, .parallax_text {
+     padding: 3%;
+     -webkit-flex: 1;
+     flex: 1;
+   } 
+/*
+    .slide:not(.wrap_parallax) .parallax_text {
+     -webkit-order: 1;
+     order: 1;
+   }
+*/
+
+   /* parallax */
+   @supports ((perspective: 1px) and (not (-webkit-overflow-scrolling: touch))) {
+
+     html, body {
+       
+       height: 100%;
+     }
+     body {
+       transform: translateZ(0px); /* Fix paint issues in Edge && Safari H/W acceleration */
+     }
+     .slides {
+	   z-index: 20;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       overflow-x: hidden;
+       overflow-y: auto;
+       perspective: 300px;
+       scroll-behavior: smooth;
+     }
+     .slide, .slide__content {
+       transform-style: preserve-3d;
+     }
+     .wrap_parallax .parallax_image {
+       transform: translateZ(60px) scale(.8);
+       transform-origin: 100% 50%;
+     }
+     .wrap_parallax .slide__bg {
+       transform: translateZ(-59px) scale(1.2);
+     }
+     .wrap_parallax:not(:first-child) .slide__bg {
+		bottom: 20%;
+     }
+     .wrap_parallax:not(:last-child) .slide__bg {
+       bottom: -50%;
+       top: -20%
+     }
+     .wrap_parallax:first-child .slide__bg {
+       bottom: -440%;
+     }
+     .slide:not(.wrap_parallax) {
+       z-index: 1; /* ensure slides overlay correctly */
+     }
+   }
+ }

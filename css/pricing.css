@@ -1,0 +1,15 @@
+@media (max-width: 845px) {
+	#adjustmentBox {
+		order: 2;
+		width: 100%;
+	}
+	
+	#examBox {
+		order: 1;
+		flex-basis: 100%;
+	}
+	
+	#xrayBox {
+		order: 3;
+	}
+}
