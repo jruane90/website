@@ -1,0 +1,227 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151305907-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151305907-2');
+</script>
+	<meta charset="utf-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Dr. Ruane - a local Gonstead Chiropractor who has helped many who were candidates for surgery or at their last resort. McKinney - Allen - Plano - Collin County">
+	<meta name="author" content="">
+	<meta name="keywords" content="chiropractor, gonstead, mckinney, allen, plano, collin county, chiropractic, trust, joseph, ruane">
+	<meta name="theme-color" content="#3f3f3f">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="shortcut icon" href="media/favicon.png">
+	<title>Contact Us - Prodigy Chiropractic - Local Trusted Chiropractor</title>
+	
+	<link rel="stylesheet" href="css/what-to-expect.css">
+	<link rel="stylesheet" href="css/global.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body onscroll="scrollFunction()">
+	
+
+	<nav class='nav ' id='navbar'>
+		<input type='checkbox' id='nav-check'>
+		<div class='nav-header'>
+			<div class='nav-title'>
+				<a href='index.php'><img class='logo' id='logo' src='media/prodigy-chiropractic-gonstead-logo-dark@2x.png'></a>
+			</div>
+		</div>
+		<div class='nav-links'>
+			<a class='' href='index.php'>MEET DR. RUANE</a>
+			<a class='' href='why-gonstead.php'>EXPERIENCE THE FOUNDATIONAL DIFFERENCE</a>
+			<a class='' href='what-patients-say.php'>WHAT PATIENTS SAY</a>
+			<a class='' href='what-to-expect.php'>WHAT TO EXPECT</a>
+
+			<a class='current' href='contact-us.php'>CONTACT US</a>
+		</div>
+		<div class='nav-btn'>
+			<label for='nav-check'>
+			<span></span>
+			<span></span>
+			<span></span>
+			</label>
+		</div>
+	</nav>
+<div class="icon-bar">
+	<a href="https://facebook.com/prodigychiropractic" class="social-facebook"><i class="fa fa-facebook"></i></a> 
+</div>
+
+<div class="slides" id="slides">
+	
+	<div class="" style="margin-top: 65px;">
+		<div class="map-wrapper">
+			<iframe src="https://maps.google.com/maps?q=8951%20Collin%20Mckinney%20Parkway%20%20Suite%201201-J%20%20McKinney%2C%20TX%2075070&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="460" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</div>
+	</div>
+	
+	<div class="slide-grey flex-center-wrapper" id="schedule-apt">
+		
+		<div class="content-reg">
+			<h1>SCHEDULE YOUR APPOINTMENT</h1>
+			
+			<div class="two-section">
+				<div class="section-half">
+					<h3>Scheduling an Appointment In 3 Easy Steps:</h3>
+					
+					<p><b>(1) Click the blue button or >><a href="https://prodigychiropractic.janeapp.com">click here</a><<.</b> </p>
+					<p><b>(2) Once the scheduling page loads, choose the type of appointment you would like to schedule on the left side of the page.</b></p>
+					<p>If you haven't seen me before, choose "Consultation & exam".</p>
+					<p><b>(3) Select a time slot on the calendar that works for you on the right side of the page.</b></p>
+					<p>To see more days, click the text above the calendar (that text will show the day range that is currently being displayed). A select tool will come up when you click that text. Choose a day on that tool that you would like to look at.</p>
+					<p>If you have any questions, don't hesitate to give us a call.</p>
+					<p class="replaceWithPhoneNumber">Please Enable Javascript</p>
+					
+				</div>
+				<div class="section-half flex-center">
+					<p>This button will go to our easy scheduling system.</p>
+					<a href="https://prodigychiropractic.janeapp.com" class="btn-blue">Go to Scheduling System</a>
+					<a href="https://prodigychiropractic.janeapp.com"><img class="schedulerImg" src="media/scheduler.jpg" /></a>
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="slide-light flex-center-wrapper" id="">
+		
+		<div class="content-reg">
+			<h2>CONTACT INFO</h2>
+			
+			<ul class="contact-info text-center">
+				<li><i class="icon-location"></i>8951 Collin McKinney Parkway, Suite 1201-J, McKinney, TX 75070</li>
+				<li><i class="icon-phone"></i>(214) 449 - 0240</li>
+				<li><i class="icon-mail"></i><a href="prodigychiropractic@gmail.com">prodigychiropractic@gmail.com</a> </li>
+			</ul>
+		</div>
+	</div>
+	
+	
+	<div class="slide-grey flex-center-wrapper" id="">
+		<div class="content-left">
+			<div class="box-container">
+				<div class="box-option">
+					<div class="box-option-section">
+						<h3>FIRST<br>RESPONDERS<br>PACKAGE</h3>
+						<br>
+						<p class="blue">
+							<span class="price-value">20</span>% off
+						</p>
+						<p>with upfront payment</p>
+					</div>
+					<div class="box-option-section">
+						<p>Fire Fighters<br>EMTs<br>Police<br>Military (active or reserve)<br>Teachers</p><br>
+					</div>
+					<div class="box-option-section">
+						<a href="#schedule-apt" class="btn-blue">Get Package</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<div class="slide-light flex-center-wrapper" id="">
+		<div class="content-left">
+			
+			<h2>The Office</h2>
+			
+			<div class="gallery-container">
+					<a href="media/office-1-HD.jpg"><img src="media/office-1.jpg"></a>
+					<a href="media/office-2-HD.jpg"><img src="media/office-2.jpg"></a>
+					<a href="media/main-lobby-1-HD.jpg"><img src="media/main-lobby-1.jpg"></a>
+					<a href="media/outside-HD.jpg"><img src="media/outside.jpg"></a>
+					<a href="media/main-lobby-2-HD.jpg"><img src="media/main-lobby-2.jpg"></a>
+					<a href="media/business-cards-HD.jpg"><img src="media/business-cards.jpg"></a>
+			</div>
+		</div>
+	</div>
+	
+	
+	<footer class="flex-center-wrapper">
+	<div class="flex-row flex-wrap flex-center flex-cross-start confine-body">
+		<div class="flex-col">
+			<img id="footer-logo" src="media/prodigy-chiropractic-gonstead-logo@2x.png"/><br>
+			<p>The Gonstead Difference</p>
+			<p>Your Collin County Chiropractor</p>
+		</div>
+		<div class="flex-col">
+			<h3>Contact Info</h3>
+			<p>
+				<span class="replaceWithPhoneNumber">Please Enable Javascript</span><br>
+				<span class="replaceWithEmail">Please Enable Javascript</span><br><br>
+				<span class="replaceWithAddressLine1">Please Enable Javascript</span><br>
+				<span class="replaceWithAddressLine2">Please Enable Javascript</span><br>
+			</p>
+			<ul class="social2 padding-top-10 padding-right-10">
+				<!-- Social Button HTML -->
+				
+			</ul>
+		</div>
+		
+	</div>
+</footer>	
+</div>
+<script type="text/javascript" src="js/navbar.js" async></script>
+<script type="text/javascript" src="js/contactInfo.js"></script>
+<script type="application/ld+json" async>
+{
+	"@context": "http://schema.org",
+	"@type": "chiropractic",
+	"name": "Prodigy Chiropractic",
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "8951 Collin McKinney Pkwy Suite 1201-J",
+		"addressLocality": "McKinney",
+		"addressRegion": "TX",
+		"postalCode": "75070"
+	},
+	"image": "prodigychiropractic.com/logo.jpg",
+	"telePhone": "(214) 449-0240",
+	"url": "prodigychiropractic.com",
+	"paymentAccepted": [ "cash", "check", "credit card" ],
+	"openingHours": "Mo,Tu,We,Th,Fr,Sa 08:00-18:00",
+	"openingHoursSpecification": [ {
+		"@type": "OpeningHoursSpecification",
+		"dayOfWeek": [
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday",
+			"Saturday"
+		],
+		"opens": "08:00",
+		"closes": "18:00"
+	} ],
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "33.136863",
+		"longitude": "-96.730924"
+	},
+	"priceRange":"$$"
+
+}
+</script>
+
+	</body>
+</html>
